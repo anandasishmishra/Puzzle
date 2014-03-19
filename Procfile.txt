@@ -1,1 +1,1 @@
-web:    java -cp target/classes:target/dependency/* index.jsp
+web: sh target/bin/webapp
